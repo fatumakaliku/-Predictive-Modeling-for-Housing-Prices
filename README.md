@@ -1,4 +1,4 @@
-# PHASE 2 PROJECT 
+#  Predictive Modeling for Housing Prices
 
 # OVERVIEW
 The idea of this project is to explore the data and find the degree of association between different variables. This is approached by creating visuals/graphs and statistical metrics like correlation coefficients. Finally, using various regression methods to try to identify the locations with the highest sales prices, to identify how seasonal trends affect sales, and to predict prices of houses depending on the features. There are numerous ways to fulfill the purpose and each has its pros and cons. In this project, we chose Multiple Regression analysis because its straightforward, gives more insight about the data and makes easier to interpret the relationship between the response and the explanatory variables.
